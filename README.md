@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <!--
 **RahulMGatty/RahulMGatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Hello! I'm Rahul M Gatty, a student pursuing a Masters in Software Technology dedicated to continuous learning and improvement. I believe in constantly "solo leveling" my skills in areas like Python, Java, C++, Web Development (HTML, CSS, JavaScript), Android Development (Java), Machine Learning, MySQL, Data Structures. Inspired by the spirit of constant progression, I'm always seeking new challenges and opportunities to level up my expertise.
 -->
