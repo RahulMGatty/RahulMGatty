@@ -15,7 +15,7 @@
 - 🌱 Learning: **Advanced Backend Architecture & DevOps**
 - 👯 Open to: **Collaborating on Open Source**
 - 💬 Ask me about: **Web Development, Android, Databases, Git**
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/rahul-m-3b6b28317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1d6u1OnTjSwOoauuOFHZg%3D%3D)** | **[Portfolio](https://gamiofile.netlify.app/)**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/rahul-m-3b6b28317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1d6u1OnTjSwOoauuOFHZg%3D%3D)** | **[Portfolio](https://gamiofile.netlify.app/)** |
 
 ---
 
@@ -51,12 +51,12 @@
 
 ### 📊 GitHub Stats & Trophies
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulMGatty&show_icons=true&theme=radical)  
+<!--![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulMGatty&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulMGatty&layout=compact&theme=radical)  
-
+-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=RahulMGatty&theme=radical&border_radius=5)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=RahulMGatty&theme=radical&no-frame=true&margin-w=15)
-
+<!--![Trophies](https://github-profile-trophy.vercel.app/?username=RahulMGatty&theme=radical&no-frame=true&margin-w=15)
+-->
 ---
 
 ### 📈 Commit Activity Graph
@@ -70,8 +70,8 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rahul-m-3b6b28317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1d6u1OnTjSwOoauuOFHZg%3D%3D)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://gamiofile.netlify.app/)
 
 
 <!-- Animated Outro -->
