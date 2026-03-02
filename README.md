@@ -15,7 +15,7 @@
 - 🌱 Learning: **Advanced Backend Architecture & DevOps**
 - 👯 Open to: **Collaborating on Open Source**
 - 💬 Ask me about: **Web Development, Android, Databases, Git**
-- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/)** | **[Portfolio](https://yourportfolio.com)**
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/rahul-m-3b6b28317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1d6u1OnTjSwOoauuOFHZg%3D%3D)** | **[Portfolio](https://gamiofile.netlify.app/)**
 
 ---
 
