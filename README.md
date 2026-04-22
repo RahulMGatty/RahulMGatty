@@ -70,8 +70,8 @@
 ---
 
 ### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rahul-m-3b6b28317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv1d6u1OnTjSwOoauuOFHZg%3D%3D)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://gamiofile.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rahul-m-3b6b28317/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://gamiofile.vercel.app/)
 
 
 <!-- Animated Outro -->
